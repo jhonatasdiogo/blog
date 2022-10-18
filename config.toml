@@ -1,4 +1,4 @@
-baseURL = 'https://jhonatasdiogo.netlify.app/'
+baseURL = 'https://john2kbr.netlify.app'
 languageCode = 'en-us'
 title = 'Jhonatas Diogo'
 paginate = "10" # Number of posts per page
